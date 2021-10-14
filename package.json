@@ -1,0 +1,31 @@
+{
+  "name": "fbclone",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@firebase/firestore": "^3.1.0",
+    "@heroicons/react": "^1.0.4",
+    "firebase": "^8.6.1",
+    "next": "11.1.2",
+    "next-auth": "^3.29.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-firebase-hooks": "^3.0.4",
+    "react-firebaseui": "^5.0.2",
+    "tailwind-react-native-classnames": "^1.5.1",
+    "tailwind-scrollbar-hide": "^1.0.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.6",
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2",
+    "postcss": "^8.3.8",
+    "tailwindcss": "^2.2.16"
+  }
+}
