@@ -4,7 +4,7 @@ Facebook clone created using React.js, Next.js, Tailwind CSS, Google authenticat
 
 Live site - https://social-amber.vercel.app/
 
-![fb-pic](https://user-images.githubusercontent.com/86771291/137579214-74554e06-5ccd-4f79-8028-500b8a21158e.png)
+![fb-pic-final](https://user-images.githubusercontent.com/86771291/138249533-76224ab9-6b99-4547-8909-a0c11d462756.png)
 
 # Features
 
